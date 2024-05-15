@@ -1,4 +1,4 @@
-Smartphone Data Cleaning Project
+# Smartphone Data Cleaning Project
 
 
 In this project, I have developed a comprehensive data cleaning pipeline tailored for smartphone data collected through web scraping with Beautiful Soup. The raw data, which includes various smartphone specifications and details, often contains noise, missing values, and inconsistencies that need to be addressed to ensure the dataset's quality and reliability.
